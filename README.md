@@ -17,7 +17,6 @@
 - [Tech Stack](#-tech-stack)
 - [Installation & Setup](#-installation--setup)
 - [Project Structure](#-project-structure)
-- [Deployment](#-deployment)
 
 ---
 
@@ -151,12 +150,6 @@ wanderlust-ai/
 ├── package.json         # NPM Scripts
 └── README.md            # Documentation
 ```
-## Screenshots
-<img width="1470" height="837" alt="Screenshot 2025-12-11 at 2 36 21 PM" src="https://github.com/user-attachments/assets/56fe2a4e-1f47-44fa-b5c2-bc2d38b7753d" />
-<img width="1470" height="837" alt="Screenshot 2025-12-11 at 2 36 48 PM" src="https://github.com/user-attachments/assets/d8a62484-0841-4dce-99bc-f1cb09718975" />
-<img width="1470" height="837" alt="Screenshot 2025-12-11 at 2 37 31 PM" src="https://github.com/user-attachments/assets/2b8efc43-c67e-490d-9f8a-f2cb110fa571" />
-<img width="1470" height="837" alt="Screenshot 2025-12-11 at 2 38 17 PM" src="https://github.com/user-attachments/assets/d92782e5-83b8-418e-b9b0-1db6a7867aab" />
-<img width="1470" height="837" alt="Screenshot 2025-12-11 at 2 38 28 PM" src="https://github.com/user-attachments/assets/7b69673f-cdf6-4022-861e-a2e1966dac99" />
-<img width="1470" height="837" alt="Screenshot 2025-12-11 at 2 38 41 PM" src="https://github.com/user-attachments/assets/cfcb9747-bbfd-492c-a294-252b44bd4ee9" />
 
-## Built with ❤️ by Be You
+
+## Built by cs7797
