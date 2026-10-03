@@ -4,11 +4,9 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.40-red?style=for-the-badge)
 ![AI](https://img.shields.io/badge/AI-Gemini%20%7C%20Llama3-orange?style=for-the-badge)
 
-> **Spellbound Coders Cup 2025 Submission** > *BE YOU*
+>
 
 ---
-#### DEPLOYED LINK : https://wanderlust-spellbound-jykcpayi7y4grtcx9rypdt.streamlit.app/
-#### ppt : https://docs.google.com/presentation/d/1oP5dj5ywxW8RA2pLjGpQ4ubTiEBxf3agew3p_SsBgCM/edit?usp=sharing
 ## Table of Contents
 - [Problem Statement](#-problem-statement)
 - [Solution Overview](#-solution-overview)
